@@ -35,7 +35,7 @@ Here you'll find projects, experiments, and production-inspired implementations 
 ---
 ####
 
-Outside of [GitHub](https://github.com/Ali-00/), You can **find me**. Currently I'm **free to contribute**
+Outside of [GitHub](https://github.com/Ali-00/), You can **find me**.
 
 <p >
   <a href="https://github.com/Ali-00?tab=followers">
@@ -44,7 +44,7 @@ Outside of [GitHub](https://github.com/Ali-00/), You can **find me**. Currently 
   <a href="https://github.com/Ali-00?tab=followers">
     <img src="https://img.shields.io/github/followers/Ali-00?label=follow&style=social" alt="GitHub badge" />
   </a>
-  <a href="https://www.linkedin.com/in/muzamal-ali-2a79a7172/">
-    <img src="https://img.shields.io/badge/-Muzamal Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muzamal-ali-2a79a7172/" />
+  <a href="https://www.linkedin.com/in/muzamal-ali/">
+    <img src="https://img.shields.io/badge/-Muzamal Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muzamal-ali/" />
   </a>
 </p>
