@@ -1,7 +1,5 @@
 ## Hello There 👋
 
-**Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/Ali-00) represent my journey :running_man: - This is Muzamal Ali, a young tech enthusiast, and a learner. I am a student of Computer Systems Engineering. I have a passion for learning different things, languages, and frameworks. And in pursuit of learning, I experiment with things and sometimes get failed and sometimes succeed. I have deep interest in Machine Learning,Deep Learning, Computer Vision, Data Science, and Mobile App Development. I have experience with different programming languages, Python, Flask, C++/C, Javascript, mysql, Arduino,Bash Scripting and Matlab.
-
 I'm **Muzamal Ali** - an **AI Engineer & Data Scientist** passionate about building production-ready AI systems.
 
 My work focuses on **LLMs, Agentic AI, RAG, NLP, Computer Vision, MLOps, and scalable data platforms**. I enjoy transforming complex AI ideas into reliable, real-world products using **Python, FastAPI, LangChain, PyTorch, GCP, AWS, Docker, and modern data engineering tools**.
