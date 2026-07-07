@@ -9,19 +9,38 @@ Here you'll find projects, experiments, and production-inspired implementations 
 **Building intelligent systems. Learning continuously. Sharing openly. 🚀**
 </p>
 
-## Tech Stack :computer:
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="25" src="https://i.pinimg.com/564x/25/a8/5d/25a85d9e5057430d82273a3c75e73014.jpg"></code>
+## 🛠️ Tech Stack
+
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" height="48"/>
+</p>
+
+### ⚡ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask" />
+</p>
+
+### 🗄️ Databases & Vector Stores
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,aws,docker,githubactions,git" />
+</p>
+
+### 📊 Data Engineering
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=apacheairflow,apachespark" height="48"/>
+</p>
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sql,bash,cpp" />
+</p>
 
 ---
 
