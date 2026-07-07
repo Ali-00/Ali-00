@@ -11,37 +11,42 @@ Here you'll find projects, experiments, and production-inspired implementations 
 
 ## 🛠️ Tech Stack
 
-### 🤖 AI & Machine Learning
+### 🤖 AI / Machine Learning / Deep Learning
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,opencv,huggingface" height="48"/>
 </p>
 
-### ⚡ Backend & APIs
+### 🧠 Generative AI & LLM Engineering
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,langgraph,openai,faiss,pinecone" height="48"/>
+</p>
+
+### 📊 Data Engineering & Analytics
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=apachespark,apacheairflow,bigquery" height="48"/>
+</p>
+
+### ⚙️ Backend Development & APIs
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,django,flask" />
 </p>
 
-### 🗄️ Databases & Vector Stores
+### 🗄️ Databases & Data Storage
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
 </p>
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud, MLOps & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=gcp,aws,docker,githubactions,git" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mlflow,awscloudformation" height="48"/>
 </p>
 
-### 📊 Data Engineering
+### 💻 Programming & Scripting
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=apacheairflow,apachespark" height="48"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash" />
 </p>
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sql,bash,cpp" />
-</p>
-
 ---
 
 <p align="center">
