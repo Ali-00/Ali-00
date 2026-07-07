@@ -11,20 +11,25 @@ Here you'll find projects, experiments, and production-inspired implementations 
 
 ## 🛠️ Tech Stack
 
-### 🤖 AI / Machine Learning / Deep Learning
+### 🤖 AI / Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,opencv,huggingface" height="48"/>
+  <img src="https://skillicons.dev/icons?i=opencv" />
 </p>
 
 ### 🧠 Generative AI & LLM Engineering
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,langgraph,openai,faiss,pinecone" height="48"/>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://cdn.simpleicons.org/openai" height="48"/>
+  <img src="https://cdn.simpleicons.org/huggingface" height="48"/>
 </p>
 
 ### 📊 Data Engineering & Analytics
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=apachespark,apacheairflow,bigquery" height="48"/>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://cdn.simpleicons.org/apachespark" height="48"/>
+  <img src="https://cdn.simpleicons.org/apacheairflow" height="48"/>
+  <img src="https://cdn.simpleicons.org/googlebigquery" height="48"/>
 </p>
 
 ### ⚙️ Backend Development & APIs
@@ -32,7 +37,7 @@ Here you'll find projects, experiments, and production-inspired implementations 
   <img src="https://skillicons.dev/icons?i=fastapi,django,flask" />
 </p>
 
-### 🗄️ Databases & Data Storage
+### 🗄️ Databases & Vector Stores
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
 </p>
@@ -40,18 +45,12 @@ Here you'll find projects, experiments, and production-inspired implementations 
 ### ☁️ Cloud, MLOps & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=gcp,aws,docker,githubactions,git" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mlflow,awscloudformation" height="48"/>
+  <img src="https://cdn.simpleicons.org/mlflow" height="48"/>
 </p>
 
-### 💻 Programming & Scripting
+### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,bash" />
-</p>
----
-
-<p align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=Ali-00&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-00&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </p>
 
 ---
